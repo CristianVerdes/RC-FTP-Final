@@ -1,0 +1,3 @@
+/home/cristian/CLionProjects/NewFTP/FTP_Client_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cristian/CLionProjects/NewFTP/FTP_Client_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cristian/CLionProjects/NewFTP/FTP_Client_2/cmake-build-debug/CMakeFiles/FTP_Client_2.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/FTP_Server_2.dir/main.cpp.o CMakeFiles/FTP_Server_2.dir/Connection.cpp.o CMakeFiles/FTP_Server_2.dir/Commands.cpp.o CMakeFiles/FTP_Server_2.dir/createDB.cpp.o  -o FTP_Server_2 /usr/lib/x86_64-linux-gnu/libsqlite3.so -pthread 

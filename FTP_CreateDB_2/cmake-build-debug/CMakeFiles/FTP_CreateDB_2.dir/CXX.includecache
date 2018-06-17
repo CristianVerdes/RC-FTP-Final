@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../sqlite/sqlite3.h
+stdarg.h
+-
+
+/home/cristian/CLionProjects/NewFTP/FTP_CreateDB_2/main.cpp
+stdio.h
+-
+stdlib.h
+-
+sqlite3.h
+-
+string
+-
+iostream
+-
+string.h
+-
+sqlite/sqlite3.h
+/home/cristian/CLionProjects/NewFTP/FTP_CreateDB_2/sqlite/sqlite3.h
+
+/home/cristian/CLionProjects/NewFTP/FTP_CreateDB_2/sqlite/sqlite3.h
+stdarg.h
+-
+

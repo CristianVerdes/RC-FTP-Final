@@ -1,0 +1,4 @@
+/home/cristian/CLionProjects/NewFTP/FTP_CreateDB_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cristian/CLionProjects/NewFTP/FTP_CreateDB_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cristian/CLionProjects/NewFTP/FTP_CreateDB_2/cmake-build-debug/CMakeFiles/FTP_CreateDB_2.dir
+/home/cristian/CLionProjects/NewFTP/FTP_CreateDB_2/cmake-build-debug/CMakeFiles/mylib.dir

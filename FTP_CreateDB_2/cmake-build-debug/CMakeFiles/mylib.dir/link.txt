@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -g  -shared -Wl,-soname,libmylib.so -o libmylib.so CMakeFiles/mylib.dir/sqlite/sqlite3.c.o 
